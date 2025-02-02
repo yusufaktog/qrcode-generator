@@ -1,0 +1,12 @@
+
+server:
+  port: 8080
+spring:
+  application:
+    name: qrcode-generator
+
+qr:
+  code:
+    width: 200
+    height: 200
+
