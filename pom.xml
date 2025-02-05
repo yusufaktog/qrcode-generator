@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.aktog.yusuf</groupId>
-    <artifactId>qrcode-generator</artifactId>
+    <artifactId>qr-generator</artifactId>
     <version>1.0.0</version>
     <name>qrcode-generator</name>
     <description>qrcode-generator</description>
