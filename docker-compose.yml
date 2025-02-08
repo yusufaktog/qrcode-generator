@@ -1,6 +1,6 @@
 services:
   qr-generator:
-    image: qr-generator
+    image: yusufaktog/qr-code:v1.2.0
     build:
       context: .
       dockerfile: Dockerfile
